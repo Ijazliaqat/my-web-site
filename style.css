@@ -1,0 +1,39 @@
+* {
+    background-color: rgb(114, 207, 114);
+}
+
+.home-page {
+    text-align: center;
+}
+
+.palindrome-input {
+    width: 300px;
+}
+
+.custom-field {
+    position: relative;
+    font-size: 14px;
+    border-top: 20px solid transparent;
+    margin-bottom: 5px;
+    display: inline-block;
+}
+
+.custom-field input {
+    border: none;
+    appearance: none;
+    background: #f2f2f2;
+    border-radius: 3px;
+    width: 250px;
+    outline: none;
+    font-size: 14px;
+    height: 40px;
+}
+
+button{
+    width: 130px;
+    height: 40px;
+    border: none;
+    background-color: #f2f2f2;
+    border-radius: 20px;
+    color: #000;
+}
